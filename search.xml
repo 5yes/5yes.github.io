@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>计算机等级考试目录</title>
+      <link href="/2023/07/25/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%AD%89%E7%BA%A7%E8%80%83%E8%AF%95%E7%9B%AE%E5%BD%95/"/>
+      <url>/2023/07/25/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%AD%89%E7%BA%A7%E8%80%83%E8%AF%95%E7%9B%AE%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<h2 id="计算机等级考试目录"><a href="#计算机等级考试目录" class="headerlink" title="计算机等级考试目录"></a>计算机等级考试目录</h2><p>中国计算机等级考试（China Computer Application Proficiency Examination），简称CCP，是由中华人民共和国国家人力资源和社会保障部主管的全国性计算机应用技能水平考试。它旨在测试和评估考生在计算机应用方面的知识和技能水平，从初级到高级不同级别。</p><ul><li><h4 id="计算机一级"><a href="#计算机一级" class="headerlink" title="计算机一级"></a>计算机一级</h4><ul><li>计算机基础及WPS Office应用</li><li>计算机基础及MS Office应用</li><li>计算机基础及Photoshop应用</li><li>网络安全素质教育</li></ul></li><li><h4 id="计算机二级"><a href="#计算机二级" class="headerlink" title="计算机二级"></a>计算机二级</h4><ul><li><strong>公共基础知识（全科必考占10分）</strong></li><li>C语言程序设计</li><li>Java语言程序设计</li><li>Access数据库程序设计</li><li>C++语言程序设计</li><li>MySQL数据库程序设计</li><li>Web程序设计</li><li><strong>MS Office高级应用与设计【推荐】</strong></li><li>Python语言程序设计</li><li>WPS Office高级应用与设计</li><li>OpenGauss数据库程序设计</li></ul></li><li><h4 id="计算机三级"><a href="#计算机三级" class="headerlink" title="计算机三级"></a>计算机三级</h4><ul><li>网络技术</li><li>数据库技术</li><li>信息安全技术</li><li>嵌入式系统开发技术</li></ul></li><li><h4 id="计算机四级"><a href="#计算机四级" class="headerlink" title="计算机四级"></a>计算机四级</h4><ul><li><strong>操作系统原理（全科必考50分）</strong></li><li>计算机组成与接口</li><li>计算机网络</li><li>数据库原理</li></ul></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 考试 </tag>
+            
+            <tag> 计算机 </tag>
+            
+            <tag> 二级 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/07/25/hello-world/"/>
+      <url>/2023/07/25/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
